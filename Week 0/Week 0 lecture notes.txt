@@ -1,0 +1,21 @@
+Only represent 256 characters with ASCII.
+Emojis are just charcters, 1's and 0's being interperted buy your machine -> Unicode, maping lot's more chars uses 8bit, 16 bits and 32 bits.
+Colors get represented by RGB, CMYK values. 0 -> 255 to represent colors.
+Video adds time to a sequace.
+Audio gets represneted by a Midi.
+
+Losless formats, no loss in onfromation, Lossy, throwing away some amount of quality.
+
+Algorithm: Step by step instructions to solve a problem.
+
+Programing is harnessing intuition to solve problems.
+
+Psuedo code: expressing the code in a human language. High level steps to solve a problem.
+
+There are commonilties between programming languages.
+ - Functions: actions/verbes to solve smaller problems.
+ - Conditionals: THis you do based on the answer to a question.
+ - Boolean expressions: Yess/No answers.
+ - Loops: Repeat the same instruction untill told to stop.
+
+Describe functions as close to what they are used for.
